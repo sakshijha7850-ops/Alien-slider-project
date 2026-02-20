@@ -18,9 +18,11 @@ This project helped me understand:
 ---
 
 ## 🎮 Project Preview
-![Screenshot 1](./screenshots/Screenshot1.png)
-![Screenshot 2](./screenshots/Screenshot2.png)
-![Screenshot 3](./screenshots/Screenshot3.png)
+
+![Alien Slider Screenshot](Screenshot1.png)
+![Alien Slider Screenshot](Screenshot2.png)
+![Alien Slider Screenshot](Screenshot3.png)
+
 ---
 
 ## 🚀 Features
