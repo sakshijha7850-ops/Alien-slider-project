@@ -18,16 +18,9 @@ This project helped me understand:
 ---
 
 ## 🎮 Project Preview
-
-### 🟢 Alien Selection Screen
-![Alien Slider Screenshot 1](./screenshots/Screenshot1.png)
-
-### 🔥 Alien Detail View (Swampfire)
-![Alien Slider Screenshot 2](./screenshots/Screenshot2.png)
-
-### 💪 Alien Detail View (Humungousaur)
-![Alien Slider Screenshot 3](./screenshots/Screenshot3.png)
-
+![Screenshot 1](./screenshots/Screenshot1.png)
+![Screenshot 2](./screenshots/Screenshot2.png)
+![Screenshot 3](./screenshots/Screenshot3.png)
 ---
 
 ## 🚀 Features
